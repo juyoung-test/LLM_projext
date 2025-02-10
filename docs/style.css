@@ -9,3 +9,7 @@
 * {
   font-family: "Ownglyph_StudyHard-Rg";
 }
+
+#box p {
+  white-space: pre-wrap;
+}
